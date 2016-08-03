@@ -3,9 +3,9 @@ interface Application {
 }
 
 class App implements Application {
-  constructor() {
+  constructor(public name: string) {
     alert(this.name)
   }
 }
 
-new App('hello');
+var app = new App('hello');

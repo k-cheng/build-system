@@ -1,0 +1,23 @@
+{
+  "name": "build-system",
+  "version": "1.0.0",
+  "description": "Practice with creating a build system from scratch",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-cheng/build-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-cheng/build-system/issues"
+  },
+  "homepage": "https://github.com/k-cheng/build-system#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.1.1",
+    "webpack": "^1.13.1"
+  }
+}
