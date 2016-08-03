@@ -18,6 +18,8 @@
   "homepage": "https://github.com/k-cheng/build-system#readme",
   "devDependencies": {
     "awesome-typescript-loader": "^2.1.1",
-    "webpack": "^1.13.1"
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
   }
 }
